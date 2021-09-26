@@ -1,0 +1,5 @@
+package gomaze // import "github.com/skeptycal/_play/gomaze"
+
+Package gomaze contains utilities for macOS.
+
+func Example()
