@@ -1,4 +1,4 @@
-# gorepotemplate
+# gomaze
 
 > Tricky and fun utilities for Go programs on macOS.
 
