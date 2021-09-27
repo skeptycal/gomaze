@@ -9,11 +9,11 @@ type (
 	graph struct {
 
 		// V represents a set of nodes (assumed to be non-empty)
-		V *vertices
+		V Vertices
 
 		// E represents a set of edges (unordered pairs of nodes, may be empty)
-		E *edges
-		I *incidenceMap
+		E Edges
+		I SyncMapper
 	}
 
 	Any interface{}
